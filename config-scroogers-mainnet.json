@@ -30,7 +30,8 @@
     ],
     "allowedCollections": [
         "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
-        "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad"
+        "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
+        "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222"
     ],
     "allowedCollectionsProps": [
         {
@@ -48,6 +49,14 @@
             "duration": 20,
             "overPayment": 3.0,
             "minimal": 0.15
+        },
+        {
+            "verifier": "EQDCVGA2XnnOJM4n2poqgcRv7tnQvs78P85d5s_I5jjBlNNt",
+            "size": 2.5,
+            "interest": 0.3,
+            "duration": 20,
+            "overPayment": 0.15,
+            "minimal": 0.1
         }
     ],
     "aboutHtml": "<article><h1>Krediton TMA Lending Tool</h1> <p>Allow collection owners to easily integrate a lending tool exclusive to their collection's NFTs.</p><p>Krediton TMA Lending Tool (KLT) allows collection owners (CO) to easily integrate a lending tool exclusive to their collection's NFTs. Krediton seemlessly customises the KLT for a specific collection, which the CO can integrate into their existing community tools. How it works: CO creates an account on Krediton B2B platform. Using a streamlined no-code process, CO builds their own smartcontract-based KLT TMA which they integrate into their existing infrastructure. CO then replenishes their own KLT TON pool (secure by design, with NO external access to funds) from which their holders can obtain automated lending using their NFT as collateral, with a fixed term return. CO thus gains the following advantages: 1. providing holders with a useful lending service, while easily managing risk (in case of non-repayment, they recover their own NFT); 2. lending terms (loan amount, repayment deadline, interest) can take into account the collection's specifics: tier, holder's status (wealth) and any other NFT attributes. Krediton takes a small fixed per-loan fee plus a percentage of profits resulting from KLT use (interest). All other profits go directly to CO.</p></article>",
