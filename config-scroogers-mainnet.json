@@ -16,7 +16,7 @@
     },
     "bankAddress": "EQC_dIxLWliG8ZInAySYnJ9JDniwvHNMXgouR9kJNFd2BM_-",
     "creditCollectionAddress": [
-        "0:d0c2c4916ded6b0d7ac3c625b74b545a405e1e9834d9656e082b12453fd4438e"
+        "0:d62dc3d1688426f91267da2ed5ba794612cdbe2dd08ce78198068a0fa40fb644"
     ],
     "holderCollections": [
         "0:7832c74c8bd54fcce2a1c98f3b04557bcba90aaa08dafd07c3dcc6447b584972"
@@ -28,30 +28,16 @@
             }
         }
     ],
-    "allowedCollections": [],
+    "allowedCollections": [
+        "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf"
+    ],
     "allowedCollectionsProps": [
         {
-            "verifier": "EQCJGtpqW4qExwHtJeZhhbOY7_0tzXb007FTh5_zxlOFspIO",
-            "size": 3,
-            "interest": 0.5,
-            "duration": 14,
-            "overPayment": 0.21,
-            "minimal": 0.1
-        },
-        {
-            "verifier": "EQAFF_MkJnnooxzYDS7VmWeTP8XZUuaUul0bxYgZqAVFrUCU",
+            "verifier": "EQDsJPSBj_-u5jN7CC0CnrbBFzQTOgzvWnKq4KKtnaQeDtXw",
             "size": 2,
-            "interest": 0.6,
-            "duration": 14,
-            "overPayment": 0.168,
-            "minimal": 0.1
-        },
-        {
-            "verifier": "EQArLLBSfIydRW3fA_F9v7Mx1dR7cNr5BkDpigmZc2W-_vNM",
-            "size": 2,
-            "interest": 0.6,
-            "duration": 14,
-            "overPayment": 0.168,
+            "interest": 0.3,
+            "duration": 20,
+            "overPayment": 0.12,
             "minimal": 0.1
         }
     ],
