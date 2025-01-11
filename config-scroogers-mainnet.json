@@ -31,7 +31,8 @@
     "allowedCollections": [
         "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
         "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
-        "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222"
+        "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
+        "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30"
     ],
     "allowedCollectionsProps": [
         {
@@ -56,6 +57,14 @@
             "interest": 0.3,
             "duration": 20,
             "overPayment": 0.15,
+            "minimal": 0.1
+        },
+        {
+            "verifier": "EQD3aPW7AUHrtfBLL61NlczSdhuSZc8cs3GyG-l0Ih9yzrUY",
+            "size": 2.0,
+            "interest": 0.3,
+            "duration": 20,
+            "overPayment": 0.12,
             "minimal": 0.1
         }
     ],
