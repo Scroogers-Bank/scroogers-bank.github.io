@@ -1,10 +1,10 @@
 {
     "isTestnet": false,
-    "appName": "Scroogers Bank",
+    "appName": "Личный кабинет",
     "appNameHeader": {
-        "from": "green",
+        "from": "blue",
         "to": "blue",
-        "deg": 45
+        "deg": 0
     },
     "tonConnectProps": {
         "manifestUrl": "https://scroogers-bank.github.io/tonconnect-manifest.json",
@@ -16,7 +16,7 @@
     },
     "bankAddress": "EQC_dIxLWliG8ZInAySYnJ9JDniwvHNMXgouR9kJNFd2BM_-",
     "creditCollectionAddress": [
-        "0:d62dc3d1688426f91267da2ed5ba794612cdbe2dd08ce78198068a0fa40fb644"
+        "0:13f5c300fd077830a642cda3bf848a2727820b15d7abf402520fe53a8879b1d2"
     ],
     "holderCollections": [
         "0:7832c74c8bd54fcce2a1c98f3b04557bcba90aaa08dafd07c3dcc6447b584972"
@@ -29,42 +29,24 @@
         }
     ],
     "allowedCollections": [
-        "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
-        "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
-        "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
-        "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30"
+        "0:06d811f426598591b32b2c49f29f66c821368e4acb1de16762b04e0174532465",
+        "0:25fe150201e12ff9f2ad1b162d213012e8f3f1b8c45a4301e3d100077967ba65"
     ],
     "allowedCollectionsProps": [
         {
-            "verifier": "EQDsJPSBj_-u5jN7CC0CnrbBFzQTOgzvWnKq4KKtnaQeDtXw",
-            "size": 2,
-            "interest": 0.3,
-            "duration": 20,
-            "overPayment": 0.12,
-            "minimal": 0.1
-        },
-        {
-            "verifier": "EQCujGXASjVYXklZXtgovQtWF8vtCdjh_hZLwwLsiSne7VbO",
-            "size": 50,
-            "interest": 0.3,
-            "duration": 20,
-            "overPayment": 3.0,
-            "minimal": 0.15
-        },
-        {
-            "verifier": "EQDCVGA2XnnOJM4n2poqgcRv7tnQvs78P85d5s_I5jjBlNNt",
-            "size": 2.5,
-            "interest": 0.3,
+            "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
+            "size": 1.5,
+            "interest": 0.5,
             "duration": 20,
             "overPayment": 0.15,
             "minimal": 0.1
         },
         {
-            "verifier": "EQD3aPW7AUHrtfBLL61NlczSdhuSZc8cs3GyG-l0Ih9yzrUY",
-            "size": 2.0,
-            "interest": 0.3,
+            "verifier": "EQAtCZjGWKwSrmN_1VGSfmCO7MKUnUEhAjboRGKTv4PlfnF4",
+            "size": 1.5,
+            "interest": 0.5,
             "duration": 20,
-            "overPayment": 0.12,
+            "overPayment": 0.15,
             "minimal": 0.1
         }
     ],
@@ -85,10 +67,6 @@
             {
                 "main": "Выгодно",
                 "desc": "небольшие процентные ставки и комиссия сети за выдачу кредита."
-            },
-            {
-                "main": "Пассивный доход",
-                "desc": "реализована программа депозитов."
             }
         ]
     }
