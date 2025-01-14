@@ -30,7 +30,11 @@
     ],
     "allowedCollections": [
         "0:06d811f426598591b32b2c49f29f66c821368e4acb1de16762b04e0174532465",
-        "0:25fe150201e12ff9f2ad1b162d213012e8f3f1b8c45a4301e3d100077967ba65"
+        "0:25fe150201e12ff9f2ad1b162d213012e8f3f1b8c45a4301e3d100077967ba65",
+        "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
+        "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30",
+        "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
+        "0:d50b871fd3f1ad17a7a415b7238ba249626b8715d9e633b422bc7999351d0cd2"
     ],
     "allowedCollectionsProps": [
         {
@@ -48,6 +52,38 @@
             "duration": 20,
             "overPayment": 0.15,
             "minimal": 0.1
+        },
+        {
+            "verifier": "EQD4sNv5kHpBzfvdgEvecB1NE-JZQ9MdLAyx2dUZZviVAf9p",
+            "size": 1.5,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.15,
+            "minimal": 0.1
+        },
+        {
+            "verifier": "EQCVrCsI2iXlGT6xoxh0MJrXD3DnAI9dDE6w7MGBUcWTUCgH",
+            "size": 1.5,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.15,
+            "minimal": 0.1
+        },
+        {
+            "verifier": "EQACIcCgRWumoq37WM4gdjAgvvJAZ1KQ4DDWgwio-UoCMPAn",
+            "size": 2.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.2,
+            "minimal": 0.1
+        },
+        {
+            "verifier": "EQBiRPL47gq1MvPmNi7m7Eb3z0RN6C-3APpDa9G337PUpxG0",
+            "size": 35.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 3.5,
+            "minimal": 0.175
         }
     ],
     "aboutHtml": "<article><h1>Krediton TMA Lending Tool</h1> <p>Allow collection owners to easily integrate a lending tool exclusive to their collection's NFTs.</p><p>Krediton TMA Lending Tool (KLT) allows collection owners (CO) to easily integrate a lending tool exclusive to their collection's NFTs. Krediton seemlessly customises the KLT for a specific collection, which the CO can integrate into their existing community tools. How it works: CO creates an account on Krediton B2B platform. Using a streamlined no-code process, CO builds their own smartcontract-based KLT TMA which they integrate into their existing infrastructure. CO then replenishes their own KLT TON pool (secure by design, with NO external access to funds) from which their holders can obtain automated lending using their NFT as collateral, with a fixed term return. CO thus gains the following advantages: 1. providing holders with a useful lending service, while easily managing risk (in case of non-repayment, they recover their own NFT); 2. lending terms (loan amount, repayment deadline, interest) can take into account the collection's specifics: tier, holder's status (wealth) and any other NFT attributes. Krediton takes a small fixed per-loan fee plus a percentage of profits resulting from KLT use (interest). All other profits go directly to CO.</p></article>",
