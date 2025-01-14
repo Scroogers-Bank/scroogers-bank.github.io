@@ -34,7 +34,9 @@
         "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
         "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30",
         "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
-        "0:d50b871fd3f1ad17a7a415b7238ba249626b8715d9e633b422bc7999351d0cd2"
+        "0:d50b871fd3f1ad17a7a415b7238ba249626b8715d9e633b422bc7999351d0cd2",
+        "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
+        "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b"
     ],
     "allowedCollectionsProps": [
         {
@@ -84,9 +86,25 @@
             "duration": 20,
             "overPayment": 3.5,
             "minimal": 0.175
+        },
+        {
+            "verifier": "EQCz6J8rqogYYQz_mjfyXV7OW_aQmuqOZEHOJYsC3JpCsQUU",
+            "size": 50.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 5,
+            "minimal": 0.25
+        },
+        {
+            "verifier": "EQCsMS88t884zTn95PFH8XZPrOcrxeQsepSOpHuS0WL5MMPN",
+            "size": 12.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 1.2,
+            "minimal": 0.1
         }
     ],
-    "aboutHtml": "<article><h1>Krediton TMA Lending Tool</h1> <p>Allow collection owners to easily integrate a lending tool exclusive to their collection's NFTs.</p><p>Krediton TMA Lending Tool (KLT) allows collection owners (CO) to easily integrate a lending tool exclusive to their collection's NFTs. Krediton seemlessly customises the KLT for a specific collection, which the CO can integrate into their existing community tools. How it works: CO creates an account on Krediton B2B platform. Using a streamlined no-code process, CO builds their own smartcontract-based KLT TMA which they integrate into their existing infrastructure. CO then replenishes their own KLT TON pool (secure by design, with NO external access to funds) from which their holders can obtain automated lending using their NFT as collateral, with a fixed term return. CO thus gains the following advantages: 1. providing holders with a useful lending service, while easily managing risk (in case of non-repayment, they recover their own NFT); 2. lending terms (loan amount, repayment deadline, interest) can take into account the collection's specifics: tier, holder's status (wealth) and any other NFT attributes. Krediton takes a small fixed per-loan fee plus a percentage of profits resulting from KLT use (interest). All other profits go directly to CO.</p></article>",
+    "aboutHtml": "<article><h3>Об организации:</h3> <p>'Scroogers bank' - утилитарный сервис, созданный на основе Krediton Lending Tool. Krediton Lending Tool - децентрализованная платформа кредитования в сети ТОН, основанная на безопасных смарт-контрактах. Официальный канал Krediton: https://t.me/krediton </p> <h3>Проценты.</h3> <p>Проценты рассчитываются ежесекундно, минимальная сумма в большинстве случаев 0,1 TON. Процентами облагается сумма, взятая в долг на сервисе - вы можете взять любую сумму не выше максимальной.</p> <h3>Безопасность.</h3><p>За безопасность отвечают современные смарт контракты, что обеспечивает отсутствие человеческого фактора при работе сервиса. Смарт контракты и Web App полностью написаны проектом Krediton.</p> <h3>Обязанности сторон.</h3><p>В организации работы утилитарного проекта 'Scroogers bank' выступает три стороны: пользователь, организатор, Krediton.</p> <p>1) Пользователь - человек, оформляющий обмен NFT на TON. Обязанности: нет.</p> <p>2) Организатор - представитель проекта TON na Kote. Обязанности: Привлечение аудитории, поставка ликвидности. </p> <p>3) Krediton - представитель технического отдела Krediton Lending Tool. Обязанности: обеспечение безопасности средств пользователя и организатора, техническое обслуживание платформы.</p> <h3>Распределение доходов.</h3> <p>Доходы делятся на три части: Поставщики ликвидности, организатор, Krediton. Порядок распределения следующий:</p> <p>50% - поставщики ликвидности</p> <p>25% - организатор</p> <p>25% - Krediton</p> <p>Krediton получает 25% дохода сервиса за техническую организацию и обеспечение безопасности проекта.</p> <p>На данный момент поставщиками ликвидности является закрытый круг лиц из команды TON na Kote.</p> <h3>Вы хотите добавить свою коллекцию?</h3> <p>Данная механика будет реализована в ближе к марту 2025 года. Основные аспекты. Вы обозначаете свою коллекцию, число NFT, максимальную сумму кредитования. Важно! - вы должны внести сумму в TON, покрывающую максимальный кредитный лимит вашей коллекции на счет поставщика ликвидности. Сумма и проценты принадлежат вам, проценты рассчитываются от вашей доли в пуле. В случае, если клиент не погашает задолженность по вашей коллекции, вы автоматически выкупаете данную NFT.</p> <p>По вопросам добавления коллекций: @dollarsonelove</p></article>",
     "heroPage": {
         "title": {
             "first": "Сервис",
