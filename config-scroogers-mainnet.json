@@ -36,7 +36,8 @@
         "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
         "0:d50b871fd3f1ad17a7a415b7238ba249626b8715d9e633b422bc7999351d0cd2",
         "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
-        "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b"
+        "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b",
+        "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2"
     ],
     "allowedCollectionsProps": [
         {
@@ -101,6 +102,14 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 1.2,
+            "minimal": 0.1
+        },
+        {
+            "verifier": "EQAx_eAY358DObJMQeVVsZ7rJIY9-j7ZLq60hv5BuVIoOF9h",
+            "size": 2.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.2,
             "minimal": 0.1
         }
     ],
