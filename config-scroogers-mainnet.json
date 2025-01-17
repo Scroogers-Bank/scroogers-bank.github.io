@@ -1,11 +1,5 @@
 {
     "isTestnet": false,
-    "appName": "Личный кабинет",
-    "appNameHeader": {
-        "from": "blue",
-        "to": "blue",
-        "deg": 0
-    },
     "tonConnectProps": {
         "manifestUrl": "https://scroogers-bank.github.io/tonconnect-manifest.json",
         "twaReturnUrl": "https://t.me/scroogers_bank_bot/App"
@@ -122,24 +116,59 @@
             "minimal": 0.304
         }
     ],
-    "aboutHtml": "<article><h3>Об организации:</h3> <p>'Scroogers bank' - утилитарный сервис, созданный на основе Krediton Lending Tool. Krediton Lending Tool - децентрализованная платформа кредитования в сети ТОН, основанная на безопасных смарт-контрактах. Официальный канал Krediton: https://t.me/krediton </p> <h3>Проценты.</h3> <p>Проценты рассчитываются ежесекундно, минимальная сумма в большинстве случаев 0,1 TON. Процентами облагается сумма, взятая в долг на сервисе - вы можете взять любую сумму не выше максимальной.</p> <h3>Безопасность.</h3><p>За безопасность отвечают современные смарт контракты, что обеспечивает отсутствие человеческого фактора при работе сервиса. Смарт контракты и Web App полностью написаны проектом Krediton.</p> <h3>Обязанности сторон.</h3><p>В организации работы утилитарного проекта 'Scroogers bank' выступает три стороны: пользователь, организатор, Krediton.</p> <p>1) Пользователь - человек, оформляющий обмен NFT на TON. Обязанности: нет.</p> <p>2) Организатор - представитель проекта TON na Kote. Обязанности: Привлечение аудитории, поставка ликвидности. </p> <p>3) Krediton - представитель технического отдела Krediton Lending Tool. Обязанности: обеспечение безопасности средств пользователя и организатора, техническое обслуживание платформы.</p> <h3>Распределение доходов.</h3> <p>Доходы делятся на три части: Поставщики ликвидности, организатор, Krediton. Порядок распределения следующий:</p> <p>50% - поставщики ликвидности</p> <p>25% - организатор</p> <p>25% - Krediton</p> <p>Krediton получает 25% дохода сервиса за техническую организацию и обеспечение безопасности проекта.</p> <p>На данный момент поставщиками ликвидности является закрытый круг лиц из команды TON na Kote.</p> <h3>Вы хотите добавить свою коллекцию?</h3> <p>Данная механика будет реализована в ближе к марту 2025 года. Основные аспекты. Вы обозначаете свою коллекцию, число NFT, максимальную сумму кредитования. Важно! - вы должны внести сумму в TON, покрывающую максимальный кредитный лимит вашей коллекции на счет поставщика ликвидности. Сумма и проценты принадлежат вам, проценты рассчитываются от вашей доли в пуле. В случае, если клиент не погашает задолженность по вашей коллекции, вы автоматически выкупаете данную NFT.</p> <p>По вопросам добавления коллекций: @dollarsonelove</p></article>",
+    "appNameHeader": {
+        "from": "blue",
+        "to": "blue",
+        "deg": 0
+    },
     "heroPage": {
-        "title": {
-            "first": "Сервис",
-            "second": "кредитования",
-            "third": "под залог NFT"
-        },
-        "description": "Scroogers Bank - сервис кредитования под залог NFT в сети TON. Scroogers Bank работает на децентрализованной технологии Krediton Lending Tool.",
         "image": "https://i.getgems.io/siZ19C-fQJ8kwqRmxdwSsH4xtwq5Zi0br_LlKJEt0fc/rs:fill:1000:0:1/g:ce/czM6Ly9nZXRnZW1zLW5mdC9uZnQvYy82NzgxYTIzYTQ4NjYyM2MxMjgxZWU0YzMvMS9pbWFnZS5wbmc",
-        "items": [
-            {
-                "main": "Безопасно",
-                "desc": "ваши средства и NFT под надёжной защитой смарт-контрактов."
-            },
-            {
-                "main": "Выгодно",
-                "desc": "небольшие процентные ставки и комиссия сети за выдачу кредита."
+        "itemsCount": 2
+    },
+    "translates": {
+        "en": {
+            "appName": "Personal account",
+            "aboutHtml": "<article><h3>About the organization:</h3> <p>'Scroogers bank' is a utility service created on the basis of Krediton Lending Tool. Krediton Lending Tool is a decentralized lending platform in the TON network, based on secure smart contracts. Official Krediton channel: https://t.me/krediton </p> <h3>Interest.</h3> <p>Interest is calculated every second, the minimum amount in most cases is 0.1 TON. Interest is charged on the amount borrowed on the service - you can take any amount not higher than the maximum.</p> <h3>Security.</h3><p>Modern smart contracts are responsible for security, which ensures the absence of the human factor in the operation of the service. Smart contracts and Web App are completely written by the Krediton project.</p> <h3>Responsibilities of the parties.</h3><p>There are three parties to the organization of the 'Scroogers bank' utility project: the user, the organizer, and Krediton.</p> <p>1) User - a person who executes an NFT exchange for TON. Responsibilities: none.</p> <p>2) Organizer - a representative of the TON na Kote project. Responsibilities: Attracting an audience, supplying liquidity.</p> <p>3) Krediton - a representative of the technical department of the Krediton Lending Tool. Responsibilities: ensuring the security of the user's and organizer's funds, technical maintenance of the platform.</p> <h3>Distribution of revenue.</h3> <p>Revenue is divided into three parts: Liquidity providers, organizer, Krediton. The distribution order is as follows:</p> <p>50% - liquidity providers</p> <p>25% - organizer</p> <p>25% - Krediton</p> <p>Krediton receives 25% of the service's income for the technical organization and security of the project.</p> <p>At the moment, liquidity providers are a closed circle of people from the TON na Kote team.</p> <h3>Do you want to add your collection?</h3> <p>This mechanics will be implemented closer to March 2025. Key aspects. You indicate your collection, the number of NFTs, the maximum lending amount. Important! - you must deposit an amount in TON that covers the maximum credit limit of your collection to the liquidity provider account. The amount and interest belong to you, the interest is calculated from your share in the pool. If the client does not pay off the debt on your collection, you automatically buy out this NFT.</p> <p>For questions about adding collections: @dollarsonelove</p></article>",
+            "heroPage": {
+                "title": {
+                    "first": "Loan",
+                    "second": "service",
+                    "third": "secured by NFT"
+                },
+                "description": "Scroogers Bank is a lending service secured by NFT in the TON network. Scroogers Bank operates on the decentralized Krediton Lending Tool technology.",
+                "items": [
+                    {
+                        "main": "Safely",
+                        "desc": "your funds and NFTs are securely protected by smart contracts."
+                    },
+                    {
+                        "main": "Advantageous",
+                        "desc": "low interest rates and network fees for issuing a loan."
+                    }
+                ]
             }
-        ]
+        },
+        "ru": {
+            "appName": "Личный кабинет",
+            "aboutHtml": "<article><h3>Об организации:</h3> <p>'Scroogers bank' - утилитарный сервис, созданный на основе Krediton Lending Tool. Krediton Lending Tool - децентрализованная платформа кредитования в сети ТОН, основанная на безопасных смарт-контрактах. Официальный канал Krediton: https://t.me/krediton </p> <h3>Проценты.</h3> <p>Проценты рассчитываются ежесекундно, минимальная сумма в большинстве случаев 0,1 TON. Процентами облагается сумма, взятая в долг на сервисе - вы можете взять любую сумму не выше максимальной.</p> <h3>Безопасность.</h3><p>За безопасность отвечают современные смарт контракты, что обеспечивает отсутствие человеческого фактора при работе сервиса. Смарт контракты и Web App полностью написаны проектом Krediton.</p> <h3>Обязанности сторон.</h3><p>В организации работы утилитарного проекта 'Scroogers bank' выступает три стороны: пользователь, организатор, Krediton.</p> <p>1) Пользователь - человек, оформляющий обмен NFT на TON. Обязанности: нет.</p> <p>2) Организатор - представитель проекта TON na Kote. Обязанности: Привлечение аудитории, поставка ликвидности. </p> <p>3) Krediton - представитель технического отдела Krediton Lending Tool. Обязанности: обеспечение безопасности средств пользователя и организатора, техническое обслуживание платформы.</p> <h3>Распределение доходов.</h3> <p>Доходы делятся на три части: Поставщики ликвидности, организатор, Krediton. Порядок распределения следующий:</p> <p>50% - поставщики ликвидности</p> <p>25% - организатор</p> <p>25% - Krediton</p> <p>Krediton получает 25% дохода сервиса за техническую организацию и обеспечение безопасности проекта.</p> <p>На данный момент поставщиками ликвидности является закрытый круг лиц из команды TON na Kote.</p> <h3>Вы хотите добавить свою коллекцию?</h3> <p>Данная механика будет реализована в ближе к марту 2025 года. Основные аспекты. Вы обозначаете свою коллекцию, число NFT, максимальную сумму кредитования. Важно! - вы должны внести сумму в TON, покрывающую максимальный кредитный лимит вашей коллекции на счет поставщика ликвидности. Сумма и проценты принадлежат вам, проценты рассчитываются от вашей доли в пуле. В случае, если клиент не погашает задолженность по вашей коллекции, вы автоматически выкупаете данную NFT.</p> <p>По вопросам добавления коллекций: @dollarsonelove</p></article>",
+            "heroPage": {
+                "title": {
+                    "first": "Сервис",
+                    "second": "кредитования",
+                    "third": "под залог NFT"
+                },
+                "description": "Scroogers Bank - сервис кредитования под залог NFT в сети TON. Scroogers Bank работает на децентрализованной технологии Krediton Lending Tool.",
+                "items": [
+                    {
+                        "main": "Безопасно",
+                        "desc": "ваши средства и NFT под надёжной защитой смарт-контрактов."
+                    },
+                    {
+                        "main": "Выгодно",
+                        "desc": "небольшие процентные ставки и комиссия сети за выдачу кредита."
+                    }
+                ]
+            }
+        }
     }
 }
