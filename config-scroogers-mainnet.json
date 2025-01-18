@@ -22,18 +22,6 @@
             }
         }
     ],
-    "allowedCollections": [
-        "0:06d811f426598591b32b2c49f29f66c821368e4acb1de16762b04e0174532465",
-        "0:25fe150201e12ff9f2ad1b162d213012e8f3f1b8c45a4301e3d100077967ba65",
-        "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
-        "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30",
-        "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
-        "0:d50b871fd3f1ad17a7a415b7238ba249626b8715d9e633b422bc7999351d0cd2",
-        "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
-        "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b",
-        "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
-        "0:0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2"
-    ],
     "allowedCollectionsProps": [
         {
             "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
@@ -41,7 +29,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 0.15,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:06d811f426598591b32b2c49f29f66c821368e4acb1de16762b04e0174532465",
+            "name": "TON Diamonds",
+            "logo": "https://cache.tonapi.io/imgproxy/M3eYCjFAbhrz8VIckrcRDb3L6EQQdDTkT_dXhrYe4qo/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQudG9uLmRpYW1vbmRzL2RpYW1vbmRzLnBuZw.webp"
         },
         {
             "verifier": "EQAtCZjGWKwSrmN_1VGSfmCO7MKUnUEhAjboRGKTv4PlfnF4",
@@ -49,7 +40,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 0.15,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:25fe150201e12ff9f2ad1b162d213012e8f3f1b8c45a4301e3d100077967ba65",
+            "name": "Lost Dogs",
+            "logo": "https://cache.tonapi.io/imgproxy/kLtRrx2eGfYM4WG-VnX8z5MPAhccaEv2tvRYxRmPZE0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2IvYy9hMzA3Mjk3ODFkODQxNzczMGE2MDg2MWQvY29sbGVjdGlvbi9pbWFnZQ.webp"
         },
         {
             "verifier": "EQD4sNv5kHpBzfvdgEvecB1NE-JZQ9MdLAyx2dUZZviVAf9p",
@@ -57,7 +51,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 0.15,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
+            "name": "Smeshariki: Season 1",
+            "logo": "https://cache.tonapi.io/imgproxy/0jtZSDbgicK1ofUhCEA3d-1MBHosa3nZuFXV4t-aw_s/rs:fill:500:500:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2IvYy82NjI3ZWIxMDNjY2VhNDQ1M2M0MDczZDEvZWRpdC9pbWFnZXMvOTUyMTQ5LmpwZw.webp"
         },
         {
             "verifier": "EQCVrCsI2iXlGT6xoxh0MJrXD3DnAI9dDE6w7MGBUcWTUCgH",
@@ -65,7 +62,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 0.15,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30",
+            "name": "Welcome to TON",
+            "logo": "https://cache.tonapi.io/imgproxy/IpbVwF4UZIVx1Aa5gguChZPrSFf3JR6W75gTc6YwG1o/rs:fill:500:500:1/g:no/aHR0cHM6Ly9jb2J1aWxkLmFtczMuY2RuLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vY29tbXVuaXR5L3Rvbi9uZnQvbG9nb190b19nZXRnZW1zLnBuZw.webp"
         },
         {
             "verifier": "EQACIcCgRWumoq37WM4gdjAgvvJAZ1KQ4DDWgwio-UoCMPAn",
@@ -73,7 +73,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 0.2,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
+            "name": "Welcome to @Whale 🐳",
+            "logo": "https://cache.tonapi.io/imgproxy/2EsfSQyJluPTwGDnmpyF08alhVez841vi295OP3YqV0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9jb2J1aWxkLmFtczMuY2RuLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vY29tbXVuaXR5L3doYWxlLzUxMng1MTIuZ2lm.webp"
         },
         {
             "verifier": "EQBiRPL47gq1MvPmNi7m7Eb3z0RN6C-3APpDa9G337PUpxG0",
@@ -81,7 +84,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 3.5,
-            "minimal": 0.175
+            "minimal": 0.175,
+            "address": "0:d50b871fd3f1ad17a7a415b7238ba249626b8715d9e633b422bc7999351d0cd2",
+            "name": "daolama.co loans",
+            "logo": "https://cache.tonapi.io/imgproxy/o0edj-B--jB1j3Xm0Xp6hzoDOaawYxF9WZ4ReGIOXbw/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZGFvbGFtYS5jby9sb2FuL2Rhb2xhbWEuanBn.webp"
         },
         {
             "verifier": "EQCz6J8rqogYYQz_mjfyXV7OW_aQmuqOZEHOJYsC3JpCsQUU",
@@ -89,7 +95,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 5,
-            "minimal": 0.25
+            "minimal": 0.25,
+            "address": "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
+            "name": "xRocket Cosmonauts NFT",
+            "logo": "https://cache.tonapi.io/imgproxy/fYekKGhmFogdkxor0_Sd8xl4v-icWZZQL73NQ8-HowU/rs:fill:500:500:1/g:no/aXBmczovL1FtUHZxcUI3NUxlVlFjVGthUUdnTXg1cnREN0FHRnJEMmJxVnVuUm5iaDc2ZHIvbG9nby5naWY.webp"
         },
         {
             "verifier": "EQCsMS88t884zTn95PFH8XZPrOcrxeQsepSOpHuS0WL5MMPN",
@@ -97,7 +106,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 1.2,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b",
+            "name": "TONNEL RELAYER",
+            "logo": "https://cache.tonapi.io/imgproxy/pW2Cvy1ZcujIctc_A1wd10-iK3E93G5VB0vqUgl7TFQ/rs:fill:500:500:1/g:no/aHR0cHM6Ly90b25uZWwubmV0d29yay9Mb2dvMi5wbmc.webp"
         },
         {
             "verifier": "EQAx_eAY358DObJMQeVVsZ7rJIY9-j7ZLq60hv5BuVIoOF9h",
@@ -105,7 +117,10 @@
             "interest": 0.5,
             "duration": 20,
             "overPayment": 0.2,
-            "minimal": 0.1
+            "minimal": 0.1,
+            "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
+            "name": "Telegram Usernames",
+            "logo": "https://cache.tonapi.io/imgproxy/ztnrgHHVGXjJ067jlkSbVyW-DmjkgEq_UBUoVC2uE9k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL3VzZXJuYW1lcy5zdmc.webp"
         },
         {
             "verifier": "EQAunWa-nVUCa7ABAWW4b6kq7R8QVubiwo7_-Z9jzoU44QOD",
@@ -113,7 +128,10 @@
             "interest": 0.16,
             "duration": 20,
             "overPayment": 6.08,
-            "minimal": 0.304
+            "minimal": 0.304,
+            "address": "0:0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2",
+            "name": "Anonymous Telegram Numbers",
+            "logo": "https://cache.tonapi.io/imgproxy/SbXRU93ULaAfR3gLNDLZ-gV7Z19uXvfYoYNfogwpY1k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL251bWJlcnMuc3Zn.webp"
         }
     ],
     "appNameHeader": {

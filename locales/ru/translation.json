@@ -60,5 +60,7 @@
     "Enter the loan amount TON": "Введите размер кредита TON",
     "Not enough funds in the lending pool.": "Недостаточно средств в пуле кредитования.",
     "Minimal bid": "Минимальная ставка",
-    "Enter the bid amount TON": "Введите размер ставки TON"
+    "Enter the bid amount TON": "Введите размер ставки TON",
+    "Collections": "Коллекции",
+    "Available collections": "Доступные коллекции"
 }
