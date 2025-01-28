@@ -24,11 +24,66 @@
     ],
     "allowedCollectionsProps": [
         {
-            "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
-            "size": 1.5,
+            "verifier": "EQAunWa-nVUCa7ABAWW4b6kq7R8QVubiwo7_-Z9jzoU44QOD",
+            "size": 190.0,
+            "interest": 0.16,
+            "duration": 20,
+            "overPayment": 6.08,
+            "minimal": 0.304,
+            "address": "0:0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2",
+            "name": "Anonymous Telegram Numbers",
+            "logo": "https://cache.tonapi.io/imgproxy/SbXRU93ULaAfR3gLNDLZ-gV7Z19uXvfYoYNfogwpY1k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL251bWJlcnMuc3Zn.webp"
+        },
+        {
+            "verifier": "EQAx_eAY358DObJMQeVVsZ7rJIY9-j7ZLq60hv5BuVIoOF9h",
+            "size": 2.0,
             "interest": 0.5,
             "duration": 20,
+            "overPayment": 0.2,
+            "minimal": 0.1,
+            "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
+            "name": "Telegram Usernames",
+            "logo": "https://cache.tonapi.io/imgproxy/ztnrgHHVGXjJ067jlkSbVyW-DmjkgEq_UBUoVC2uE9k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL3VzZXJuYW1lcy5zdmc.webp"
+        },
+        {
+            "verifier": "EQArqcSp_q0yr2pxz67Rp6cksY7VY9tFcV6IFaJypgAqm4wa",
+            "size": 3.0,
+            "interest": 0.5,
+            "duration": 10,
             "overPayment": 0.15,
+            "minimal": 0.1,
+            "address": "0:02710a51d9f99d784356744d98190587571493c80f19ab8fe4eeb93f21ac4245",
+            "name": "Vintage Cigars",
+            "logo": "https://cache.tonapi.io/imgproxy/OCXPSnGbsZSRjLsGLi4OMC0X7X-y3lhmkmLUwyGDIr0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vdmludGFnZWNpZ2FyLndlYnA.webp"
+        },
+        {
+            "verifier": "EQCmUN3Q_K40uyqD1fePa2_Z-xWgyqIfMcX-c7qOopmlxZW8",
+            "size": 2.0,
+            "interest": 0.5,
+            "duration": 10,
+            "overPayment": 0.1,
+            "minimal": 0.1,
+            "address": "0:13b9419dbeb8cbbd3584e69a5514e542a94d9d9422d49ca4ecbb49f52589bd95",
+            "name": "Scared Cats",
+            "logo": "https://cache.tonapi.io/imgproxy/q5dGfHitB7PH-Wsjdi4p0pFfF1Co-Oy5m4RRozByYok/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vc2NhcmVkY2F0LndlYnA.webp"
+        },
+        {
+            "verifier": "EQCAY4b0kg65zFXB9CYrAaXphzYmQ3LjtQmwYLIf43t6_uyb",
+            "size": 8.0,
+            "interest": 0.5,
+            "duration": 10,
+            "overPayment": 0.4,
+            "minimal": 0.1,
+            "address": "0:c9b0df4e24184a199a16656b64129ce409f22ed7a67d5334d66d88de2e9b8775",
+            "name": "Perfume Bottles",
+            "logo": "https://cache.tonapi.io/imgproxy/RL2FLct957iqUG-cxEbPeoxzGZtKwsDj5zfztsXjjrs/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vcGVyZnVtZWJvdHRsZS53ZWJw.webp"
+        },
+        {
+            "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
+            "size": 3.5,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.35,
             "minimal": 0.1,
             "address": "0:06d811f426598591b32b2c49f29f66c821368e4acb1de16762b04e0174532465",
             "name": "TON Diamonds",
@@ -110,28 +165,6 @@
             "address": "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b",
             "name": "TONNEL RELAYER",
             "logo": "https://cache.tonapi.io/imgproxy/pW2Cvy1ZcujIctc_A1wd10-iK3E93G5VB0vqUgl7TFQ/rs:fill:500:500:1/g:no/aHR0cHM6Ly90b25uZWwubmV0d29yay9Mb2dvMi5wbmc.webp"
-        },
-        {
-            "verifier": "EQAx_eAY358DObJMQeVVsZ7rJIY9-j7ZLq60hv5BuVIoOF9h",
-            "size": 2.0,
-            "interest": 0.5,
-            "duration": 20,
-            "overPayment": 0.2,
-            "minimal": 0.1,
-            "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
-            "name": "Telegram Usernames",
-            "logo": "https://cache.tonapi.io/imgproxy/ztnrgHHVGXjJ067jlkSbVyW-DmjkgEq_UBUoVC2uE9k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL3VzZXJuYW1lcy5zdmc.webp"
-        },
-        {
-            "verifier": "EQAunWa-nVUCa7ABAWW4b6kq7R8QVubiwo7_-Z9jzoU44QOD",
-            "size": 190.0,
-            "interest": 0.16,
-            "duration": 20,
-            "overPayment": 6.08,
-            "minimal": 0.304,
-            "address": "0:0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2",
-            "name": "Anonymous Telegram Numbers",
-            "logo": "https://cache.tonapi.io/imgproxy/SbXRU93ULaAfR3gLNDLZ-gV7Z19uXvfYoYNfogwpY1k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL251bWJlcnMuc3Zn.webp"
         }
     ],
     "appNameHeader": {
