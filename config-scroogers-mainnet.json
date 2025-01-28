@@ -35,6 +35,17 @@
             "logo": "https://cache.tonapi.io/imgproxy/SbXRU93ULaAfR3gLNDLZ-gV7Z19uXvfYoYNfogwpY1k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL251bWJlcnMuc3Zn.webp"
         },
         {
+            "verifier": "EQCueMjRp-npVslaRZZHW0VQq8O2hFRu7BA3k_ywnTc8yI0O",
+            "size": 200.0,
+            "interest": 0.5,
+            "duration": 10,
+            "overPayment": 10.0,
+            "minimal": 1.0,
+            "address": "0:46fa0e9a864014196a5e7d66f1f83ffdb10f2859bbf2ea9baeabbf14d9ce0d50",
+            "name": "Plush Pepes",
+            "logo": "https://cache.tonapi.io/imgproxy/iIpBU4i9ZY25bZqhNt2DwmR6nCkV8fxRSw1l4pPwWUA/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vcGx1c2hwZXBlLndlYnA.webp"
+        },
+        {
             "verifier": "EQAx_eAY358DObJMQeVVsZ7rJIY9-j7ZLq60hv5BuVIoOF9h",
             "size": 2.0,
             "interest": 0.5,
@@ -110,6 +121,28 @@
             "address": "0:388b9f22b92f4351846d519f7bb19a399a791b898501a565d039eddd11409c3f",
             "name": "Precious Peaches",
             "logo": "https://cache.tonapi.io/imgproxy/-0AGV3wRsDmrLUJzcQpZUHuk8tWxMSY0aBY8NDERiGQ/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vcHJlY2lvdXNwZWFjaC53ZWJw.webp"
+        },
+        {
+            "verifier": "EQDK8yw2CDZ9DQJzHT9-ztD3cRIYVltABS1EfZvWF1pxV2Zw",
+            "size": 3.0,
+            "interest": 0.5,
+            "duration": 10,
+            "overPayment": 0.15,
+            "minimal": 0.1,
+            "address": "0:2d154f46ac67e2c78506f433a2bcde7c431be004951a019fe97590590a66e12a",
+            "name": "Magic Potions",
+            "logo": "https://cache.tonapi.io/imgproxy/K380KtVp-fQZCNW7pi0XWyDFsSesmIZPbG8P5NuDGi0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vbWFnaWNwb3Rpb24ud2VicA.webp"
+        },
+        {
+            "verifier": "EQDnCOxkeeATkOOgvsRNu3pcmauQzzRncFMZ5hwzik00FsUZ",
+            "size": 3.0,
+            "interest": 0.5,
+            "duration": 10,
+            "overPayment": 0.15,
+            "minimal": 0.1,
+            "address": "0:ab180f6c942a24b200fe3724438ed1f248a3744ecf24ea176e78991491965d0f",
+            "name": "Signet Rings",
+            "logo": "https://cache.tonapi.io/imgproxy/Qh9mElVtKau6UEbAEUo9KnU9Y2NuDy-kG-ss0slbl-E/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vc2lnbmV0cmluZy53ZWJw.webp"
         },
         {
             "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
