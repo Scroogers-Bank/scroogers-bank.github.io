@@ -34,6 +34,24 @@
             "overPayment": 10.0,
             "minimal": 0.5,
             "address": "0:3c8bee037dc8873e5ca7c979ae7b037d8ac1f0b82ddea38390e4df0f4111162a"
+        },
+        {
+            "verifier": "EQDxB2jOht9cwbE9mAPh3DS0e5QqGiFwXlK4SKjLrRetBj1f",
+            "size": 400.0,
+            "interest": 0.25,
+            "duration": 20,
+            "overPayment": 20.0,
+            "minimal": 1.0,
+            "address": "0:0ec3260619e638c57a2a7763642f60dc67f01158799ba95c43ea407ae4541a50"
+        },
+        {
+            "verifier": "EQC--LzVuzRf_k0BJEymHwKPFPreh7w0CFTiBRwrU4OWzHdg",
+            "size": 150.0,
+            "interest": 0.25,
+            "duration": 20,
+            "overPayment": 7.5,
+            "minimal": 0.375,
+            "address": "0:788655a181180882e144cd0e86092af28911b4dc15a3acfadc7f252d5ca09c52"
         }
     ],
     "allowedCollectionsProps": [
