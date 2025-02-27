@@ -22,6 +22,20 @@
             }
         }
     ],
+    "onlyHolderRights": {
+        "extend": false
+    },
+    "allowedCustomNftProps": [
+        {
+            "verifier": "EQCepu1HCBMNnK7OpVqdxGtn_c_7LJIX-U4CtjI92sUNQhLr",
+            "size": 100.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 10.0,
+            "minimal": 0.5,
+            "address": "0:3c8bee037dc8873e5ca7c979ae7b037d8ac1f0b82ddea38390e4df0f4111162a"
+        }
+    ],
     "allowedCollectionsProps": [
         {
             "verifier": "EQAunWa-nVUCa7ABAWW4b6kq7R8QVubiwo7_-Z9jzoU44QOD",
