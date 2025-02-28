@@ -166,7 +166,7 @@
             "minimal": 0.1,
             "address": "0:2d154f46ac67e2c78506f433a2bcde7c431be004951a019fe97590590a66e12a",
             "name": "Magic Potions",
-            "logo": "https://cache.tonapi.io/imgproxy/K380KtVp-fQZCNW7pi0XWyDFsSesmIZPbG8P5NuDGi0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vbWFnaWNwb3Rpb24ud2VicA.webp"
+            "logo": "https://nft.fragment.com/collection/magicpotion.webp"
         },
         {
             "verifier": "EQDnCOxkeeATkOOgvsRNu3pcmauQzzRncFMZ5hwzik00FsUZ",
@@ -177,7 +177,40 @@
             "minimal": 0.1,
             "address": "0:ab180f6c942a24b200fe3724438ed1f248a3744ecf24ea176e78991491965d0f",
             "name": "Signet Rings",
-            "logo": "https://cache.tonapi.io/imgproxy/Qh9mElVtKau6UEbAEUo9KnU9Y2NuDy-kG-ss0slbl-E/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vc2lnbmV0cmluZy53ZWJw.webp"
+            "logo": "https://nft.fragment.com/collection/signetring.webp"
+        },
+        {
+            "verifier": "EQCZ_wFKpAnjHEZF6yooZgX_l9uf4PGQBRYjP0AngzY1D8X0",
+            "size": 5.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.5,
+            "minimal": 0.1,
+            "address": "0:cbec731b71ad05b9fae31c5711a222e4122397917a0efef1f681550df09369e2",
+            "name": "Ion Gems",
+            "logo": "https://nft.fragment.com/collection/iongem.webp"
+        },
+        {
+            "verifier": "EQDBFYiARfVab_D0nbvuvqUD8IvjD9bUcPdq-e9hGARAGfm2",
+            "size": 6.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.6,
+            "minimal": 0.1,
+            "address": "0:99c7114c4becb585c1800cbe843c1eeeb0db2d42a0fdbbec81698a5755532bef",
+            "name": "Mini Oscars",
+            "logo": "https://nft.fragment.com/collection/minioscar.webp"
+        },
+        {
+            "verifier": "EQBV5-if9eAUOZ299FXdEzXhtNOjbbEdMahRhdDa28rUdKmQ",
+            "size": 4.0,
+            "interest": 0.5,
+            "duration": 20,
+            "overPayment": 0.4,
+            "minimal": 0.1,
+            "address": "0:c845e95e3a44f1083e20fd7126f318f42d8360ebecccb13180030080faf11b90",
+            "name": "Astral Shards",
+            "logo": "https://nft.fragment.com/collection/astralshard.webp"
         },
         {
             "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
