@@ -9,6 +9,8 @@
         "serverUrl": "https://tonapi.io/v2/"
     },
     "bankAddress": "EQC_dIxLWliG8ZInAySYnJ9JDniwvHNMXgouR9kJNFd2BM_-",
+    "usdtBankAddress": "EQD_n1Dc2yKyPSDGeWPNytP4v6FxCyErruZ8GeEjV5hXSk1d",
+    "usdtMaster": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
     "creditCollectionAddress": [
         "0:13f5c300fd077830a642cda3bf848a2727820b15d7abf402520fe53a8879b1d2"
     ],
