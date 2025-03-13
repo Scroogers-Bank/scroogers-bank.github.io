@@ -8,6 +8,10 @@
         "clientSideKey": "AEOWW47RRNQWVMYAAAAKSUU76L4CUEXEOSYFYUH47LAWQI7ZHGPU2FQUWZSVN4QSZOBR5AI",
         "serverUrl": "https://tonapi.io/v2/"
     },
+    "telegramAnalyticsProps": {
+        "token": "eyJhcHBfbmFtZSI6InNjcm9vZ2Vyc19iYW5rIiwiYXBwX3VybCI6Imh0dHBzOi8vdC5tZS9zY3Jvb2dlcnNfYmFua19ib3QiLCJhcHBfZG9tYWluIjoiaHR0cHM6Ly9zY3Jvb2dlcnMtYmFuay5naXRodWIuaW8vIn0=!VJPkAiRsrql6QBUZ5WF31cFZzlG8qsyYpD/JOTmRrXg=",
+        "appName": "scroogers_bank"
+    },
     "bankAddress": "EQC_dIxLWliG8ZInAySYnJ9JDniwvHNMXgouR9kJNFd2BM_-",
     "usdtBankAddress": "EQD_n1Dc2yKyPSDGeWPNytP4v6FxCyErruZ8GeEjV5hXSk1d",
     "usdtMaster": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
