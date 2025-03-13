@@ -67,12 +67,24 @@
             "usdt": true,
             "size": 800.0,
             "interest": 1.0,
-            "duration": 20,
-            "overPayment": 160.0,
+            "duration": 30,
+            "overPayment": 240.0,
             "minimal": 8.0,
             "address": "0:0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2",
             "name": "Anonymous Telegram Numbers",
             "logo": "https://cache.tonapi.io/imgproxy/SbXRU93ULaAfR3gLNDLZ-gV7Z19uXvfYoYNfogwpY1k/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL251bWJlcnMuc3Zn.webp"
+        },
+        {
+            "verifier": "EQDK8yw2CDZ9DQJzHT9-ztD3cRIYVltABS1EfZvWF1pxV2Zw",
+            "size": 28.0,
+            "usdt": true,
+            "interest": 1.0,
+            "duration": 20,
+            "overPayment": 5.6,
+            "minimal": 0.4,
+            "address": "0:2d154f46ac67e2c78506f433a2bcde7c431be004951a019fe97590590a66e12a",
+            "name": "Magic Potions",
+            "logo": "https://nft.fragment.com/collection/magicpotion.webp"
         }
     ],
     "allowedCollectionsProps": [
