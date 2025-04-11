@@ -101,6 +101,18 @@
             "address": "0:05263a7949c455134764e52c52040853ce9480e1a406cb5113a7df702f580b59",
             "name": "Scroogers Vouchers (100 TON)",
             "logo": "https://s.getgems.io/nft/c/67f903d884376be9c6749072/avatar/1367654.png"
+        },
+        {
+            "verifier": "EQBax1Vq5p1__XSsT2FCotq7UnD-9evKveFpO8FcBmhRWOer",
+            "size": 60.0,
+            "usdt": true,
+            "interest": 1.0,
+            "duration": 30,
+            "overPayment": 18.0,
+            "minimal": 0.6,
+            "address": "0:2edd610dcffc54507a965206cdff8055afb0213053d9ed6c981f99fa452d5d9a",
+            "name": "Scroogers Vouchers (20 TON)",
+            "logo": "https://s.getgems.io/nft/c/67f92a4faf19e11466354212/avatar/1367821.jpg"
         }
     ],
     "allowedCollectionsProps": [
@@ -356,6 +368,17 @@
             "address": "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b",
             "name": "TONNEL RELAYER",
             "logo": "https://cache.tonapi.io/imgproxy/pW2Cvy1ZcujIctc_A1wd10-iK3E93G5VB0vqUgl7TFQ/rs:fill:500:500:1/g:no/aHR0cHM6Ly90b25uZWwubmV0d29yay9Mb2dvMi5wbmc.webp"
+        },
+        {
+            "verifier": "EQC22oCDOfH2-cT-BbkN4dPROHcjgcC_uzbnimYblwUKltOf",
+            "size": 20.0,
+            "interest": 0.66,
+            "duration": 30,
+            "overPayment": 3.96,
+            "minimal": 0.132,
+            "address": "0:2edd610dcffc54507a965206cdff8055afb0213053d9ed6c981f99fa452d5d9a",
+            "name": "Scroogers Vouchers (20 TON)",
+            "logo": "https://s.getgems.io/nft/c/67f92a4faf19e11466354212/avatar/1367821.jpg"
         }
     ],
     "appNameHeader": {
