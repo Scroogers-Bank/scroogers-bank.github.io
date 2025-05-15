@@ -129,7 +129,7 @@
         },
         {
             "verifier": "EQCueMjRp-npVslaRZZHW0VQq8O2hFRu7BA3k_ywnTc8yI0O",
-            "size": 250.0,
+            "size": 500.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 37.5,
@@ -173,7 +173,7 @@
         },
         {
             "verifier": "EQCmUN3Q_K40uyqD1fePa2_Z-xWgyqIfMcX-c7qOopmlxZW8",
-            "size": 6.0,
+            "size": 14.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 0.9,
@@ -184,7 +184,7 @@
         },
         {
             "verifier": "EQCAY4b0kg65zFXB9CYrAaXphzYmQ3LjtQmwYLIf43t6_uyb",
-            "size": 15.0,
+            "size": 23.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 2.25,
@@ -195,7 +195,7 @@
         },
         {
             "verifier": "EQAXgEy7mSG8WaC7WXExFBOVgVEJYvht3wsLV3Aetk-CfCt_",
-            "size": 2.0,
+            "size": 7.0,
             "interest": 0.5,
             "duration": 10,
             "overPayment": 0.1,
@@ -206,7 +206,7 @@
         },
         {
             "verifier": "EQASi-RwZoxlG8WWAbPwykgRA6ssbq5Vh_Cchp9meEk2ey-i",
-            "size": 50.0,
+            "size": 100.0,
             "interest": 0.5,
             "duration": 10,
             "overPayment": 2.5,
@@ -217,7 +217,7 @@
         },
         {
             "verifier": "EQACcf0pCgTR1ULQf1gneEVOLSfQ4FbreWrOI9DTagEJxNic",
-            "size": 20.0,
+            "size": 70.0,
             "interest": 0.5,
             "duration": 10,
             "overPayment": 1.0,
@@ -228,7 +228,7 @@
         },
         {
             "verifier": "EQDK8yw2CDZ9DQJzHT9-ztD3cRIYVltABS1EfZvWF1pxV2Zw",
-            "size": 10.0,
+            "size": 15.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 1.5,
@@ -261,7 +261,7 @@
         },
         {
             "verifier": "EQDBFYiARfVab_D0nbvuvqUD8IvjD9bUcPdq-e9hGARAGfm2",
-            "size": 15.0,
+            "size": 22.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 2.25,
