@@ -63,6 +63,26 @@
             "minimal": 0.375,
             "address": "0:788655a181180882e144cd0e86092af28911b4dc15a3acfadc7f252d5ca09c52",
             "custom": true
+        },
+        {
+            "verifier": "EQCePjTkCMaf4F6dQwYaxkHshah2BdKgLI0bUJnGRidyYIU6",
+            "size": 100.0,
+            "interest": 0.5,
+            "duration": 30,
+            "overPayment": 15.0,
+            "minimal": 0.5,
+            "address": "0:6c07a2c7be6cfbb8c786120d161bd298196d0cc6043a81512c7bd6c1fd3b5b72",
+            "custom": true
+        },
+        {
+            "verifier": "EQA55lmflMUDK59Qnum1xa086kfQPuGfBMw5SR-h09C-h1Fl",
+            "size": 100.0,
+            "interest": 0.5,
+            "duration": 30,
+            "overPayment": 15.0,
+            "minimal": 0.5,
+            "address": "0:a3fe1094596349837d9e010db247dce84adb691b9eece3c223438bcfe01a645d",
+            "custom": true
         }
     ],
     "allowedUsdtCollectionsProps": [
@@ -132,8 +152,8 @@
             "size": 500.0,
             "interest": 0.5,
             "duration": 30,
-            "overPayment": 37.5,
-            "minimal": 1.25,
+            "overPayment": 75,
+            "minimal": 2.5,
             "address": "0:46fa0e9a864014196a5e7d66f1f83ffdb10f2859bbf2ea9baeabbf14d9ce0d50",
             "name": "Plush Pepes",
             "logo": "https://cache.tonapi.io/imgproxy/iIpBU4i9ZY25bZqhNt2DwmR6nCkV8fxRSw1l4pPwWUA/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vcGx1c2hwZXBlLndlYnA.webp"
@@ -176,7 +196,7 @@
             "size": 14.0,
             "interest": 0.5,
             "duration": 30,
-            "overPayment": 0.9,
+            "overPayment": 2.1,
             "minimal": 0.1,
             "address": "0:13b9419dbeb8cbbd3584e69a5514e542a94d9d9422d49ca4ecbb49f52589bd95",
             "name": "Scared Cats",
@@ -187,8 +207,8 @@
             "size": 23.0,
             "interest": 0.5,
             "duration": 30,
-            "overPayment": 2.25,
-            "minimal": 0.1,
+            "overPayment": 3.45,
+            "minimal": 0.115,
             "address": "0:c9b0df4e24184a199a16656b64129ce409f22ed7a67d5334d66d88de2e9b8775",
             "name": "Perfume Bottles",
             "logo": "https://cache.tonapi.io/imgproxy/RL2FLct957iqUG-cxEbPeoxzGZtKwsDj5zfztsXjjrs/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vcGVyZnVtZWJvdHRsZS53ZWJw.webp"
@@ -198,7 +218,7 @@
             "size": 7.0,
             "interest": 0.5,
             "duration": 10,
-            "overPayment": 0.1,
+            "overPayment": 0.35,
             "minimal": 0.1,
             "address": "0:70dad3b951a27873f617b7723ccb9283d24dfbb2d699c5e755d8ee479abca22b",
             "name": "Sharp Tongues",
@@ -209,8 +229,8 @@
             "size": 100.0,
             "interest": 0.5,
             "duration": 10,
-            "overPayment": 2.5,
-            "minimal": 0.25,
+            "overPayment": 5.0,
+            "minimal": 0.5,
             "address": "0:fd8a466aeb13e02a3ce67411b41b44bcd11bd42636f0807acf6570ca73fc2c13",
             "name": "Durov’s Caps",
             "logo": "https://cache.tonapi.io/imgproxy/qXq1C6a_k5SlFVJ32HQagcYe_3j6ZEBaLN4781UvyhY/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vZHVyb3ZzY2FwLndlYnA.webp"
@@ -220,8 +240,8 @@
             "size": 70.0,
             "interest": 0.5,
             "duration": 10,
-            "overPayment": 1.0,
-            "minimal": 0.1,
+            "overPayment": 3.5,
+            "minimal": 0.35,
             "address": "0:388b9f22b92f4351846d519f7bb19a399a791b898501a565d039eddd11409c3f",
             "name": "Precious Peaches",
             "logo": "https://cache.tonapi.io/imgproxy/-0AGV3wRsDmrLUJzcQpZUHuk8tWxMSY0aBY8NDERiGQ/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2NvbGxlY3Rpb24vcHJlY2lvdXNwZWFjaC53ZWJw.webp"
@@ -231,7 +251,7 @@
             "size": 15.0,
             "interest": 0.5,
             "duration": 30,
-            "overPayment": 1.5,
+            "overPayment": 2.25,
             "minimal": 0.1,
             "address": "0:2d154f46ac67e2c78506f433a2bcde7c431be004951a019fe97590590a66e12a",
             "name": "Magic Potions",
@@ -264,8 +284,8 @@
             "size": 22.0,
             "interest": 0.5,
             "duration": 30,
-            "overPayment": 2.25,
-            "minimal": 0.1,
+            "overPayment": 3.3,
+            "minimal": 0.11,
             "address": "0:99c7114c4becb585c1800cbe843c1eeeb0db2d42a0fdbbec81698a5755532bef",
             "name": "Mini Oscars",
             "logo": "https://nft.fragment.com/collection/minioscar.webp"
@@ -280,6 +300,28 @@
             "address": "0:c845e95e3a44f1083e20fd7126f318f42d8360ebecccb13180030080faf11b90",
             "name": "Astral Shards",
             "logo": "https://nft.fragment.com/collection/astralshard.webp"
+        },
+        {
+            "verifier": "EQCNdQmiJvNkC-njDxdGxzVQPD43g3xLWrBZyIEPYlHK1glQ",
+            "size": 15.0,
+            "interest": 0.5,
+            "duration": 30,
+            "overPayment": 2.25,
+            "minimal": 0.1,
+            "address": "0:add82df2091357dbaec1de5ea1d50b14e9a826e1981301becda551a214a9415c",
+            "name": "Genie Lamps",
+            "logo": "https://nft.fragment.com/collection/genielamp.webp"
+        },
+        {
+            "verifier": "EQAxvC6-hCYED2PnTSSOlRrdEETKPwjDuFLXeh9U6Jrgc13X",
+            "size": 2.0,
+            "interest": 0.5,
+            "duration": 30,
+            "overPayment": 0.3,
+            "minimal": 0.1,
+            "address": "0:fa987f5bc1b9fa4b733fb424563afa80216f0cdf8911c1b234d678862d13de0c",
+            "name": "Spy Agarics",
+            "logo": "https://nft.fragment.com/collection/spyagaric.webp"
         },
         {
             "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
