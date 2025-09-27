@@ -67,5 +67,8 @@
     "Available collections": "Доступные коллекции",
     "Buy out": "Выкупить",
     "Waiting for ransom": "Ожидает выкупа",
-    "Redemption cost": "Стоимость выкупа"
+    "Redemption cost": "Стоимость выкупа",
+    "Total debt": "Задолженность",
+    "Renewal debt": "Продление",
+    "Borrower": "Заёмщик"
 }
