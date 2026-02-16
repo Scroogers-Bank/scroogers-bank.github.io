@@ -105,10 +105,10 @@
         },
         {
             "verifier": "EQBc8GIqNc0uYTReCExNzKdkcShz8x21t-3cOOfLu4PPPJA_",
-            "size": 28.0,
+            "size": 112.0,
             "usdt": true,
             "interest": 1.0,
-            "duration": 20,
+            "duration": 40,
             "overPayment": 5.6,
             "minimal": 0.4,
             "address": "0:2d154f46ac67e2c78506f433a2bcde7c431be004951a019fe97590590a66e12a",
@@ -117,10 +117,10 @@
         },
         {
             "verifier": "EQAWzO_3z-UJjuiJ0exWD_BsuE6xr0iQqNDzQDvq7_imJTUS",
-            "size": 300.0,
+            "size": 150.0,
             "usdt": true,
             "interest": 1.0,
-            "duration": 30,
+            "duration": 40,
             "overPayment": 90.0,
             "minimal": 3.0,
             "address": "0:05263a7949c455134764e52c52040853ce9480e1a406cb5113a7df702f580b59",
@@ -129,10 +129,10 @@
         },
         {
             "verifier": "EQBax1Vq5p1__XSsT2FCotq7UnD-9evKveFpO8FcBmhRWOer",
-            "size": 60.0,
+            "size": 30.0,
             "usdt": true,
             "interest": 1.0,
-            "duration": 30,
+            "duration": 40,
             "overPayment": 18.0,
             "minimal": 0.6,
             "address": "0:2edd610dcffc54507a965206cdff8055afb0213053d9ed6c981f99fa452d5d9a",
@@ -143,7 +143,7 @@
     "allowedCollectionsProps": [
         {
             "verifier": "EQAunWa-nVUCa7ABAWW4b6kq7R8QVubiwo7_-Z9jzoU44QOD",
-            "size": 250.0,
+            "size": 800.0,
             "interest": 0.16,
             "duration": 20,
             "overPayment": 8.0,
@@ -154,7 +154,7 @@
         },
         {
             "verifier": "EQCueMjRp-npVslaRZZHW0VQq8O2hFRu7BA3k_ywnTc8yI0O",
-            "size": 500.0,
+            "size": 4000.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 75,
@@ -187,7 +187,7 @@
         },
         {
             "verifier": "EQArqcSp_q0yr2pxz67Rp6cksY7VY9tFcV6IFaJypgAqm4wa",
-            "size": 7.0,
+            "size": 25.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 1.05,
@@ -198,7 +198,7 @@
         },
         {
             "verifier": "EQCmUN3Q_K40uyqD1fePa2_Z-xWgyqIfMcX-c7qOopmlxZW8",
-            "size": 14.0,
+            "size": 120.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 2.1,
@@ -209,7 +209,7 @@
         },
         {
             "verifier": "EQCAY4b0kg65zFXB9CYrAaXphzYmQ3LjtQmwYLIf43t6_uyb",
-            "size": 23.0,
+            "size": 80.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 3.45,
@@ -220,7 +220,7 @@
         },
         {
             "verifier": "EQAXgEy7mSG8WaC7WXExFBOVgVEJYvht3wsLV3Aetk-CfCt_",
-            "size": 7.0,
+            "size": 25.0,
             "interest": 0.5,
             "duration": 10,
             "overPayment": 0.35,
@@ -231,7 +231,7 @@
         },
         {
             "verifier": "EQASi-RwZoxlG8WWAbPwykgRA6ssbq5Vh_Cchp9meEk2ey-i",
-            "size": 100.0,
+            "size": 500.0,
             "interest": 0.5,
             "duration": 10,
             "overPayment": 5.0,
@@ -242,7 +242,7 @@
         },
         {
             "verifier": "EQACcf0pCgTR1ULQf1gneEVOLSfQ4FbreWrOI9DTagEJxNic",
-            "size": 70.0,
+            "size": 300.0,
             "interest": 0.5,
             "duration": 10,
             "overPayment": 3.5,
@@ -253,7 +253,7 @@
         },
         {
             "verifier": "EQDK8yw2CDZ9DQJzHT9-ztD3cRIYVltABS1EfZvWF1pxV2Zw",
-            "size": 15.0,
+            "size": 75.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 2.25,
@@ -264,7 +264,7 @@
         },
         {
             "verifier": "EQDnCOxkeeATkOOgvsRNu3pcmauQzzRncFMZ5hwzik00FsUZ",
-            "size": 7.0,
+            "size": 28.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 1.05,
@@ -275,7 +275,7 @@
         },
         {
             "verifier": "EQCZ_wFKpAnjHEZF6yooZgX_l9uf4PGQBRYjP0AngzY1D8X0",
-            "size": 35.0,
+            "size": 75.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 5.25,
@@ -286,7 +286,7 @@
         },
         {
             "verifier": "EQDBFYiARfVab_D0nbvuvqUD8IvjD9bUcPdq-e9hGARAGfm2",
-            "size": 22.0,
+            "size": 90.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 3.3,
@@ -297,7 +297,7 @@
         },
         {
             "verifier": "EQBV5-if9eAUOZ299FXdEzXhtNOjbbEdMahRhdDa28rUdKmQ",
-            "size": 10.0,
+            "size": 150.0,
             "interest": 0.5,
             "duration": 20,
             "overPayment": 1.0,
@@ -308,7 +308,7 @@
         },
         {
             "verifier": "EQCNdQmiJvNkC-njDxdGxzVQPD43g3xLWrBZyIEPYlHK1glQ",
-            "size": 15.0,
+            "size": 45.0,
             "interest": 0.5,
             "duration": 30,
             "overPayment": 2.25,
@@ -329,15 +329,15 @@
             "logo": "https://nft.fragment.com/collection/spyagaric.webp"
         },
         {
-            "verifier": "EQAvfVO6ghbNMKD6C_80ds6wEQWVCMzc6DYunk1j66YHrLVE",
-            "size": 3.5,
+            "verifier": "EQBgEwtrF88pJDVbiNwGLvoo_hZi1IHS9fqR8tRQ7S6o1WGH",
+            "size": 11.0,
             "interest": 0.5,
-            "duration": 20,
-            "overPayment": 0.35,
+            "duration": 30,
+            "overPayment": 0.3,
             "minimal": 0.1,
-            "address": "0:06d811f426598591b32b2c49f29f66c821368e4acb1de16762b04e0174532465",
-            "name": "TON Diamonds",
-            "logo": "https://cache.tonapi.io/imgproxy/M3eYCjFAbhrz8VIckrcRDb3L6EQQdDTkT_dXhrYe4qo/rs:fill:500:500:1/g:no/aHR0cHM6Ly9uZnQudG9uLmRpYW1vbmRzL2RpYW1vbmRzLnBuZw.webp"
+            "address": "0:03bc9c4cc421c0edf465623a1c7813917fb4702acd2bce355a29ea5000232767",
+            "name": "Top Hats",
+            "logo": "https://nft.fragment.com/collection/tophat.webp"
         },
         {
             "verifier": "EQAtCZjGWKwSrmN_1VGSfmCO7MKUnUEhAjboRGKTv4PlfnF4",
@@ -349,39 +349,6 @@
             "address": "0:25fe150201e12ff9f2ad1b162d213012e8f3f1b8c45a4301e3d100077967ba65",
             "name": "Lost Dogs",
             "logo": "https://cache.tonapi.io/imgproxy/kLtRrx2eGfYM4WG-VnX8z5MPAhccaEv2tvRYxRmPZE0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2IvYy9hMzA3Mjk3ODFkODQxNzczMGE2MDg2MWQvY29sbGVjdGlvbi9pbWFnZQ.webp"
-        },
-        {
-            "verifier": "EQD4sNv5kHpBzfvdgEvecB1NE-JZQ9MdLAyx2dUZZviVAf9p",
-            "size": 1.5,
-            "interest": 0.5,
-            "duration": 20,
-            "overPayment": 0.15,
-            "minimal": 0.1,
-            "address": "0:f2f4c01bd0540dd16a438bc3558a8dab10370ad9c48334378424e116f4f23222",
-            "name": "Smeshariki: Season 1",
-            "logo": "https://cache.tonapi.io/imgproxy/0jtZSDbgicK1ofUhCEA3d-1MBHosa3nZuFXV4t-aw_s/rs:fill:500:500:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2IvYy82NjI3ZWIxMDNjY2VhNDQ1M2M0MDczZDEvZWRpdC9pbWFnZXMvOTUyMTQ5LmpwZw.webp"
-        },
-        {
-            "verifier": "EQCVrCsI2iXlGT6xoxh0MJrXD3DnAI9dDE6w7MGBUcWTUCgH",
-            "size": 1.5,
-            "interest": 0.5,
-            "duration": 20,
-            "overPayment": 0.15,
-            "minimal": 0.1,
-            "address": "0:f25992284d7b8451a33a44eb672acd259ad909556120d6f5cc8a69bf03fadd30",
-            "name": "Welcome to TON",
-            "logo": "https://cache.tonapi.io/imgproxy/IpbVwF4UZIVx1Aa5gguChZPrSFf3JR6W75gTc6YwG1o/rs:fill:500:500:1/g:no/aHR0cHM6Ly9jb2J1aWxkLmFtczMuY2RuLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vY29tbXVuaXR5L3Rvbi9uZnQvbG9nb190b19nZXRnZW1zLnBuZw.webp"
-        },
-        {
-            "verifier": "EQACIcCgRWumoq37WM4gdjAgvvJAZ1KQ4DDWgwio-UoCMPAn",
-            "size": 3.5,
-            "interest": 0.5,
-            "duration": 20,
-            "overPayment": 0.35,
-            "minimal": 0.1,
-            "address": "0:ddea8b9332c45ac9ddfedd2f65a85dcda373d6b91b366db8124a3bb4ba3823bf",
-            "name": "Welcome to @Whale 🐳",
-            "logo": "https://cache.tonapi.io/imgproxy/2EsfSQyJluPTwGDnmpyF08alhVez841vi295OP3YqV0/rs:fill:500:500:1/g:no/aHR0cHM6Ly9jb2J1aWxkLmFtczMuY2RuLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vY29tbXVuaXR5L3doYWxlLzUxMng1MTIuZ2lm.webp"
         },
         {
             "verifier": "EQBiRPL47gq1MvPmNi7m7Eb3z0RN6C-3APpDa9G337PUpxG0",
@@ -404,17 +371,6 @@
             "address": "0:94de275fa7ef81b39c76408779bf469ce493b01622aee60d4eed4204a9df52ad",
             "name": "xRocket Cosmonauts NFT",
             "logo": "https://cache.tonapi.io/imgproxy/fYekKGhmFogdkxor0_Sd8xl4v-icWZZQL73NQ8-HowU/rs:fill:500:500:1/g:no/aXBmczovL1FtUHZxcUI3NUxlVlFjVGthUUdnTXg1cnREN0FHRnJEMmJxVnVuUm5iaDc2ZHIvbG9nby5naWY.webp"
-        },
-        {
-            "verifier": "EQCsMS88t884zTn95PFH8XZPrOcrxeQsepSOpHuS0WL5MMPN",
-            "size": 20.0,
-            "interest": 0.25,
-            "duration": 20,
-            "overPayment": 1.0,
-            "minimal": 0.1,
-            "address": "0:cc0e55dc47d4dc219cd8349b7a66f8a0e8a76479c3cc7746f79be99581870b8b",
-            "name": "TONNEL RELAYER",
-            "logo": "https://cache.tonapi.io/imgproxy/pW2Cvy1ZcujIctc_A1wd10-iK3E93G5VB0vqUgl7TFQ/rs:fill:500:500:1/g:no/aHR0cHM6Ly90b25uZWwubmV0d29yay9Mb2dvMi5wbmc.webp"
         },
         {
             "verifier": "EQC22oCDOfH2-cT-BbkN4dPROHcjgcC_uzbnimYblwUKltOf",
