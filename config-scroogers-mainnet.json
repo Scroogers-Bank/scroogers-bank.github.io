@@ -26,12 +26,18 @@
         "0:957211b0a6ae29d4bd87f79e23e67c143dab455c17d84de85b98f817d462d386"
     ],
     "holderCollections": [
-        "0:7832c74c8bd54fcce2a1c98f3b04557bcba90aaa08dafd07c3dcc6447b584972"
+        "0:7832c74c8bd54fcce2a1c98f3b04557bcba90aaa08dafd07c3dcc6447b584972",
+        "0:1f48431de546a90af2985d9ae4ec5f3bdbe844b56da2756cf3c67674aef7c9fe"
     ],
     "holderCollectionsProps": [
         {
             "limitAttributes": {
                 "default": 300
+            }
+        },
+        {
+            "limitAttributes": {
+                "default": 1000
             }
         }
     ],
